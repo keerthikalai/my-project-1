@@ -1,0 +1,1 @@
+SELECT * FROM student_db.hospital;
